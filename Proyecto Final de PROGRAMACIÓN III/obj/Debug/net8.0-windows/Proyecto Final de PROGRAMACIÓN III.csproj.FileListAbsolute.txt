@@ -1,0 +1,45 @@
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.exe
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.deps.json
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.runtimeconfig.json
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.pdb
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.CadenasForm.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.NumerosForm.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.SeriesForm.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.VectoresForm.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.csproj.GenerateResource.cache
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.AssemblyInfoInputs.cache
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.AssemblyInfo.cs
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.csproj.CoreCompileInputs.cache
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\refint\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.pdb
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.genruntimeconfig.cache
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\ref\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Form1.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Properties.Resources.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.MatricesForm.resources
+C:\Users\maman\source\repos\Proyecto Final de PROGRAMACIÓN III\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.sourcelink.json
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.exe
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.deps.json
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.runtimeconfig.json
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\bin\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.pdb
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Form1.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.CadenasForm.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.MatricesForm.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.NumerosForm.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.SeriesForm.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Forms.VectoresForm.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto_Final_de_PROGRAMACIÓN_III.Properties.Resources.resources
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.csproj.GenerateResource.cache
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.AssemblyInfoInputs.cache
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.AssemblyInfo.cs
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.csproj.CoreCompileInputs.cache
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\refint\Proyecto Final de PROGRAMACIÓN III.dll
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.pdb
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\Proyecto Final de PROGRAMACIÓN III.genruntimeconfig.cache
+C:\Users\maman\Desktop\PROGRAMACION_III-Proyecto-Final\Proyecto Final de PROGRAMACIÓN III\obj\Debug\net8.0-windows\ref\Proyecto Final de PROGRAMACIÓN III.dll

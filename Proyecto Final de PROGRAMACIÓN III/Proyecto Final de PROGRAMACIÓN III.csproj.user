@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadenasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MatricesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NumerosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SeriesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VectoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
