@@ -7,8 +7,8 @@ namespace Proyecto_Final_de_PROGRAMACIÓN_III
         //Fields
         private Random random;
         private int tempIndex;
-        private Form activeForm;
-        private Button currentButton;
+        private Form? activeForm;
+        private Button? currentButton;
 
         //Constructor
         public Form1()
@@ -104,11 +104,6 @@ namespace Proyecto_Final_de_PROGRAMACIÓN_III
             OpenChildForm(new Forms.VectoresForm(), sender);
         }
 
-        private void btnMatrices_Click(object sender, EventArgs e)
-        {
-            OpenChildForm(new Forms.MatricesForm(), sender);
-        }
-
         private void btnCloseChildForm_Click(object sender, EventArgs e)
         {
             if (activeForm != null)
@@ -124,7 +119,6 @@ namespace Proyecto_Final_de_PROGRAMACIÓN_III
             currentButton = null;
             btnCloseChildForm.Visible = false;
         }
-
 
         private void btnClose_Click(object sender, EventArgs e)
         {
@@ -148,7 +142,6 @@ namespace Proyecto_Final_de_PROGRAMACIÓN_III
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
-           
         }
     }
 }

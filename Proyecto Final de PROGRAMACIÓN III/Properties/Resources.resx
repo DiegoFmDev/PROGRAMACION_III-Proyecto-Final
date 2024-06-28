@@ -121,4 +121,7 @@
   <data name="cross-out (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cross-out (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="448987714_1460661207929259_4095618598135844001_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\448987714_1460661207929259_4095618598135844001_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

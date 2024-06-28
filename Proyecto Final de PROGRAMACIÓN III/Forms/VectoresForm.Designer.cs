@@ -114,7 +114,7 @@
             lblResult.Anchor = AnchorStyles.Top;
             lblResult.AutoSize = true;
             lblResult.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblResult.Location = new Point(475, 62);
+            lblResult.Location = new Point(472, 66);
             lblResult.Name = "lblResult";
             lblResult.Size = new Size(87, 15);
             lblResult.TabIndex = 5;
@@ -124,9 +124,9 @@
             // 
             txtVectorInput.Anchor = AnchorStyles.Top;
             txtVectorInput.BorderStyle = BorderStyle.FixedSingle;
-            txtVectorInput.Location = new Point(286, 58);
+            txtVectorInput.Location = new Point(269, 58);
             txtVectorInput.Name = "txtVectorInput";
-            txtVectorInput.Size = new Size(135, 23);
+            txtVectorInput.Size = new Size(160, 23);
             txtVectorInput.TabIndex = 6;
             txtVectorInput.Text = " ";
             // 
@@ -197,10 +197,10 @@
             // 
             label4.Anchor = AnchorStyles.Top;
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI Semibold", 13F, FontStyle.Bold);
-            label4.Location = new Point(166, 56);
+            label4.Font = new Font("Segoe UI Semibold", 15F, FontStyle.Bold);
+            label4.Location = new Point(149, 56);
             label4.Name = "label4";
-            label4.Size = new Size(82, 25);
+            label4.Size = new Size(89, 28);
             label4.TabIndex = 9;
             label4.Text = "VECTOR:";
             // 

@@ -7,9 +7,6 @@
     <Compile Update="Forms\CadenasForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\MatricesForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Forms\NumerosForm.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -63,6 +63,16 @@ namespace Proyecto_Final_de_PROGRAMACIÓN_III.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _448987714_1460661207929259_4095618598135844001_n {
+            get {
+                object obj = ResourceManager.GetObject("448987714_1460661207929259_4095618598135844001_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cross_out__2_ {
             get {
                 object obj = ResourceManager.GetObject("cross-out (2)", resourceCulture);

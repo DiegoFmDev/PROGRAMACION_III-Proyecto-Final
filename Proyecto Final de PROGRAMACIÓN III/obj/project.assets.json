@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maman\\Desktop\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\Proyecto Final de PROGRAMACIÓN III.csproj",
+      "projectUniqueName": "C:\\Users\\maman\\Desktop\\Deiby\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\Proyecto Final de PROGRAMACIÓN III.csproj",
       "projectName": "Proyecto Final de PROGRAMACIÓN III",
-      "projectPath": "C:\\Users\\maman\\Desktop\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\Proyecto Final de PROGRAMACIÓN III.csproj",
+      "projectPath": "C:\\Users\\maman\\Desktop\\Deiby\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\Proyecto Final de PROGRAMACIÓN III.csproj",
       "packagesPath": "C:\\Users\\maman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maman\\Desktop\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\obj\\",
+      "outputPath": "C:\\Users\\maman\\Desktop\\Deiby\\PROGRAMACION_III-Proyecto-Final\\Proyecto Final de PROGRAMACIÓN III\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

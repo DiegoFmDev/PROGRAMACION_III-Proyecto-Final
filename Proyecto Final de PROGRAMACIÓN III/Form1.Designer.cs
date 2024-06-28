@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             panelMenu = new Panel();
-            btnMatrices = new Button();
             btnVectores = new Button();
             btnCadenas = new Button();
             btnSeries = new Button();
@@ -43,15 +42,19 @@
             btnCloseChildForm = new Button();
             lblTitle = new Label();
             panelDesktopPane = new Panel();
+            pictureBox1 = new PictureBox();
+            label3 = new Label();
+            label2 = new Label();
             panelMenu.SuspendLayout();
             panelLogo.SuspendLayout();
             panelTitleBar.SuspendLayout();
+            panelDesktopPane.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panelMenu
             // 
             panelMenu.BackColor = Color.FromArgb(51, 51, 76);
-            panelMenu.Controls.Add(btnMatrices);
             panelMenu.Controls.Add(btnVectores);
             panelMenu.Controls.Add(btnCadenas);
             panelMenu.Controls.Add(btnSeries);
@@ -63,28 +66,12 @@
             panelMenu.Size = new Size(210, 581);
             panelMenu.TabIndex = 0;
             // 
-            // btnMatrices
-            // 
-            btnMatrices.Dock = DockStyle.Top;
-            btnMatrices.FlatAppearance.BorderSize = 0;
-            btnMatrices.FlatStyle = FlatStyle.Flat;
-            btnMatrices.ImageAlign = ContentAlignment.MiddleLeft;
-            btnMatrices.Location = new Point(0, 320);
-            btnMatrices.Name = "btnMatrices";
-            btnMatrices.Padding = new Padding(12, 0, 0, 0);
-            btnMatrices.Size = new Size(210, 60);
-            btnMatrices.TabIndex = 4;
-            btnMatrices.Text = "  Matrices";
-            btnMatrices.TextAlign = ContentAlignment.MiddleLeft;
-            btnMatrices.TextImageRelation = TextImageRelation.ImageBeforeText;
-            btnMatrices.UseVisualStyleBackColor = true;
-            btnMatrices.Click += btnMatrices_Click;
-            // 
             // btnVectores
             // 
             btnVectores.Dock = DockStyle.Top;
             btnVectores.FlatAppearance.BorderSize = 0;
             btnVectores.FlatStyle = FlatStyle.Flat;
+            btnVectores.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnVectores.ImageAlign = ContentAlignment.MiddleLeft;
             btnVectores.Location = new Point(0, 260);
             btnVectores.Name = "btnVectores";
@@ -102,6 +89,7 @@
             btnCadenas.Dock = DockStyle.Top;
             btnCadenas.FlatAppearance.BorderSize = 0;
             btnCadenas.FlatStyle = FlatStyle.Flat;
+            btnCadenas.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnCadenas.ImageAlign = ContentAlignment.MiddleLeft;
             btnCadenas.Location = new Point(0, 200);
             btnCadenas.Name = "btnCadenas";
@@ -119,6 +107,7 @@
             btnSeries.Dock = DockStyle.Top;
             btnSeries.FlatAppearance.BorderSize = 0;
             btnSeries.FlatStyle = FlatStyle.Flat;
+            btnSeries.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnSeries.ImageAlign = ContentAlignment.MiddleLeft;
             btnSeries.Location = new Point(0, 140);
             btnSeries.Name = "btnSeries";
@@ -136,6 +125,7 @@
             btnNumeros.Dock = DockStyle.Top;
             btnNumeros.FlatAppearance.BorderSize = 0;
             btnNumeros.FlatStyle = FlatStyle.Flat;
+            btnNumeros.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnNumeros.ImageAlign = ContentAlignment.MiddleLeft;
             btnNumeros.Location = new Point(0, 80);
             btnNumeros.Name = "btnNumeros";
@@ -257,11 +247,49 @@
             // 
             // panelDesktopPane
             // 
+            panelDesktopPane.Controls.Add(pictureBox1);
+            panelDesktopPane.Controls.Add(label3);
+            panelDesktopPane.Controls.Add(label2);
             panelDesktopPane.Dock = DockStyle.Fill;
             panelDesktopPane.Location = new Point(210, 80);
             panelDesktopPane.Name = "panelDesktopPane";
             panelDesktopPane.Size = new Size(724, 501);
             panelDesktopPane.TabIndex = 2;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Anchor = AnchorStyles.Top;
+            pictureBox1.Image = Properties.Resources._448987714_1460661207929259_4095618598135844001_n;
+            pictureBox1.Location = new Point(104, 60);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(504, 136);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
+            // 
+            // label3
+            // 
+            label3.Anchor = AnchorStyles.Top;
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI Semibold", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.ForeColor = SystemColors.Desktop;
+            label3.Location = new Point(117, 224);
+            label3.Name = "label3";
+            label3.Size = new Size(181, 32);
+            label3.TabIndex = 2;
+            label3.Text = "INTEGRANTES: ";
+            // 
+            // label2
+            // 
+            label2.Anchor = AnchorStyles.Top;
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI Semibold", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.ForeColor = SystemColors.Desktop;
+            label2.Location = new Point(218, 284);
+            label2.Name = "label2";
+            label2.Size = new Size(326, 128);
+            label2.TabIndex = 3;
+            label2.Text = "      Cristian Chuve\r\n      Deiby Lino\r\n      Alvaro Zonabi\r\n      Diego Fernando Mamani";
             // 
             // Form1
             // 
@@ -281,6 +309,9 @@
             panelLogo.PerformLayout();
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
+            panelDesktopPane.ResumeLayout(false);
+            panelDesktopPane.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -292,7 +323,6 @@
         private Button btnVectores;
         private Button btnCadenas;
         private Button btnSeries;
-        private Button btnMatrices;
         private Panel panelTitleBar;
         private Label lblTitle;
         private Label label1;
@@ -301,5 +331,8 @@
         private Button btnMaximize;
         private Button btnMinimize;
         private Button btnClose;
+        private PictureBox pictureBox1;
+        private Label label3;
+        private Label label2;
     }
 }
