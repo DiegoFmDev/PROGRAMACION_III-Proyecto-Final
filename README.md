@@ -2,14 +2,10 @@
 
 ## Funcionalidades
 
->### Números
- 
+>### Números     
 >### Series
-  
 >### Cadenas
- 
 >### Vectores
-
 
 ## Uso
 
@@ -22,13 +18,24 @@ Para utilizar la aplicación, sigue estos pasos:
 
 ### Ejemplo de Uso
 
-- **Fibonacci:**
-  - **Entrada:** Ingresar el número `5`.
-  - **Salida Esperada:** Mostrar `Fibonacci(5) = 3`.
+**Fibonacci:**   
+>   **Entrada:** Ingresar el número `5`.   
+>   **Salida Esperada:** Mostrar `Fibonacci(5) = 3`.   
 
-- **Suma de Elementos de un Vector:**
-  - **Entrada:** Ingresar el vector `1, 2, 3, 4, 5`.
-  - **Salida Esperada:** Mostrar `Suma de Elementos = 15`.
+ **Suma de Elementos de un Vector:**   
+>  **Entrada:** Ingresar el vector `1, 2, 3, 4, 5`.   
+>  **Salida Esperada:** Mostrar `Suma de Elementos = 15`.   
+ 
+ **Eliminar x del Vector:**     
+>   **Entrada:** Ingresar el vector `2, 5, 65, 23, 45, 2, 13, 45, 61`.   
+>   **Parametro:** EliminarX `2`.  
+>   **Salida Esperada:** `5, 65, 23, 45, 13, 45, 61`.   
+
+ **Eliminar x del Vector:**   
+>   **Entrada:** Ingresar el vector `2, 5, 65, 23, 45, 2, 13, 45`.   
+>   **ParametroA:** EliminarX `2`.  
+>   **ParametroB:** EliminarX `6`.  
+>   **Salida Esperada:** `2, 5, 13, 2, 45, 23, 65, 45`.  
 
 ## Tecnologías Utilizadas
 
@@ -38,13 +45,13 @@ Para utilizar la aplicación, sigue estos pasos:
 
 ## Equipo de Desarrollo
 ```diff
- **Números:** Funcionalidades relacionadas con números.
+ Números: Funcionalidades relacionadas con números.
 -    Desarrollado por LINO SALVATIERRA-DEIBY #10.
- **Series:** Funcionalidades relacionadas con series matemáticas.
+ Series: Funcionalidades relacionadas con series matemáticas.
 +    Desarrollado por ZONABI NUÑEZ-ALVARO #18.
- **Cadenas:** Funcionalidades relacionadas con operaciones de cadenas.
+ Cadenas: Funcionalidades relacionadas con operaciones de cadenas.
 !    Desarrollado por CHUVIRU CHUVE-JOEL CRISTIAN #3.
- **Vectores:** Funcionalidades relacionadas con operaciones de vectores.
+ Vectores: Funcionalidades relacionadas con operaciones de vectores.
 @@   Desarrollado por MAMANI QUISPE-DIEGO FERNANDO #11.  @@
 ```
  
