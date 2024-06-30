@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto Final de PROGRAMACIÓN III")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef96541ac1009cbcde162c29e50b264579830f42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec8e4ac2aee7b36aaab2097594caa62b49eccda4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto Final de PROGRAMACIÓN III")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto Final de PROGRAMACIÓN III")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
