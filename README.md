@@ -2,13 +2,13 @@
 
 ## Funcionalidades
 
-### Números
-
-### Series
+>### Números
  
-### Cadenas
-
-### Vectores
+>### Series
+  
+>### Cadenas
+ 
+>### Vectores
 
 
 ## Uso
@@ -37,9 +37,14 @@ Para utilizar la aplicación, sigue estos pasos:
 - **Interfaz de Usuario:** Windows Forms
 
 ## Equipo de Desarrollo
-
-- **Números:** Funcionalidades relacionadas con números. Desarrollado por <span style="color: green;">@Deiby</span>.
-- **Series:** Funcionalidades relacionadas con series matemáticas. Desarrollado por <span style="color: green;">@alvarozonabi</span>.
-- **Cadenas:** Funcionalidades relacionadas con operaciones de cadenas. Desarrollado por <span style="color: green;">@Cristianchuve</span>.
-- **Vectores:** Funcionalidades relacionadas con operaciones de vectores. Desarrollado por <span style="color: green;">@DiegoFmDev</span>.
+```diff
+ **Números:** Funcionalidades relacionadas con números.
+-    Desarrollado por LINO SALVATIERRA-DEIBY #10.
+ **Series:** Funcionalidades relacionadas con series matemáticas.
++    Desarrollado por ZONABI NUÑEZ-ALVARO #18.
+ **Cadenas:** Funcionalidades relacionadas con operaciones de cadenas.
+!    Desarrollado por CHUVIRU CHUVE-JOEL CRISTIAN #3.
+ **Vectores:** Funcionalidades relacionadas con operaciones de vectores.
+@@   Desarrollado por MAMANI QUISPE-DIEGO FERNANDO #11.  @@
+```
  
