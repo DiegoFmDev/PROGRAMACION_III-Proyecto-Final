@@ -27,7 +27,7 @@ Para utilizar la aplicación, sigue estos pasos:
   - **Salida Esperada:** Mostrar `Fibonacci(5) = 3`.
 
 - **Suma de Elementos de un Vector:**
-  - **Entrada:** Ingresar el vector `[1, 2, 3, 4, 5]`.
+  - **Entrada:** Ingresar el vector `1, 2, 3, 4, 5`.
   - **Salida Esperada:** Mostrar `Suma de Elementos = 15`.
 
 ## Tecnologías Utilizadas
